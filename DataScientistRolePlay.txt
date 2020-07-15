@@ -1,6 +1,6 @@
 
-By: Trent Parkinson
-Date: Jan-18th-2018
+By: varun balsu
+Date: 15 July 2020
 
 Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
 
